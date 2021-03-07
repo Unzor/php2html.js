@@ -1,15 +1,15 @@
-# php2html.js
+# php2js
 Compile PHP to a simple HTML file.
 # Usage
-To add php2html.js to your website, add this:
+To add php2js to your website, add this:
 
 ```
-<script src="src/php2html.js"></script>
+<script src="src/php.js"></script>
 ```
-To use php2html.js, use this simple script:
+To use php2js, use this simple script:
 
 ```
-php2html.loadUrl('yourphpfile.php');
+php2js.loadUrl('yourphpfile.php');
 ```
 # Credit
 Most of the credit goes to [W3schools](https://w3schools.com) for creating the compiler.
